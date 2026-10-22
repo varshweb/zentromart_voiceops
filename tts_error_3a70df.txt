@@ -1,0 +1,2 @@
+TTS failed: gnani-vachana is not installed. Run: pip install gnani-vachana
+Text: Sorry, I couldn't process the audio: gnani-vachana is not installed. Run: pip install gnani-vachana
