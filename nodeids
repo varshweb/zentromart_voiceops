@@ -1,0 +1,10 @@
+[
+  "tests/test_rag.py::test_load_all_chunks",
+  "tests/test_rag.py::test_no_fabricated_superseded_content",
+  "tests/test_rag.py::test_parse_returns_policy",
+  "tests/test_rag.py::test_superseded_policy_marked",
+  "tests/test_tools.py::test_create_ticket_short_summary",
+  "tests/test_tools.py::test_create_ticket_success",
+  "tests/test_tools.py::test_lookup_with_wrong_verification",
+  "tests/test_tools.py::test_lookup_without_verification"
+]
